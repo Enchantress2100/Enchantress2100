@@ -15,7 +15,7 @@
 
 - 📄 LinkedIn? [https://www.linkedin.com/in/consuelo-gomez/](https://www.linkedin.com/in/consuelo-gomez/)
 
-- ⚡ Fun fact [I think I am obsessed about skincare and makeup. Tell me and I probable have it.](I think I am obsessed about skincare and makeup. Tell me and I probable have it.)
+- ⚡ Fun fact [I think I am obsessed about skincare and makeup. Tell me and I probable have it.]
 
 - 💬 Ask me about... **anything, we will solve together :relieved:**
 
