@@ -1,9 +1,9 @@
-![](consuelo.gif)
+<img src="consuelo.gif" width="40" height="40" /
 <h3 align="center">A passionate Chilean Full Stack developer who also loves teaching English...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enchantress2100&label=Profile%20views&color=0e75b6&style=flat" alt="enchantress2100" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enchantress2100" alt="enchantress2100" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enchantress2100" alt="enchantress2100" /></a> </p>
 
 - 🔭 I’m currently working on ["Miriam pon la tetera"](https://github.com/Enchantress2100/SCL021-burger-queen)
 
