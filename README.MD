@@ -1,4 +1,4 @@
-<p align="center"><img src="consuelo.gif" width="400" height="400"></p>
+<img src="consuelo.gif" width="400" height="400">
 
 <h3 align="center">A passionate Chilean Full Stack developer who also loves teaching English...</h3>
 
