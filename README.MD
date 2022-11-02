@@ -1,4 +1,4 @@
-<img src="consuelo.gif" width="200" height="200">
+<img src="consuelo.gif" width="400" height="400">
 <h3 align="center">A passionate Chilean Full Stack developer who also loves teaching English...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enchantress2100&label=Profile%20views&color=0e75b6&style=flat" alt="enchantress2100" /> </p>
