@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enchantress2100" alt="enchantress2100" /></a> </p>
 
-- 🔭 I’m currently working on ["Miriam pon la tetera"](https://github.com/Enchantress2100/SCL021-burger-queen)
+- 🔭 I’m currently working on ["boilerplate-mochachai"](https://github.com/Enchantress2100/boilerplate-mochachai)
 
-- 🌱 I’m currently learning **React, Angular.**
+- 🌱 I’m currently learning **QA Testing**
 
 - 👯 I’m looking to collaborate on **code challenges :eyes:**
 
