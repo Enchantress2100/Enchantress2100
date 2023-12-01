@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on ["TIBCO Development Fundamentals"](https://github.com/Enchantress2100/TIBCO_UD)
 
-- 🌱 I’m currently learning **QA Testing**
+- 🌱 I’m currently learning **TIBCO Development and Administration**
 
 - 👯 I’m looking to collaborate on **code challenges :eyes:**
 
